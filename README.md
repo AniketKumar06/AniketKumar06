@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on self Employee 
 - 🌱 I’m currently learning Mern full Stack
-- 📫 How to reach me: portfolio : -https://aniket-kumar-c2267.web.app/
+- 📫 portfolio : -https://aniket-kumar-c2267.web.app/
 - ⚡ familier Knowledge of java,salesforce
