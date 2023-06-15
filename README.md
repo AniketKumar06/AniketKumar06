@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mern full Stack
 - 📫 portfolio : -https://aniket-kumar-c2267.web.app/
 - ⚡ familier Knowledge of Java, Salesforce and JavaScript
+- 😒 Looking for Job
+- 💕 I have hands-on experience in Core java, javascript,html and css
