@@ -45,7 +45,7 @@ hobbies: ["Photography", "Travelling", "Comedy"]
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,javascript,html,css,bootstrap,jquery,nodejs,expressjs,react,figma,mongodb,mysql,git&theme=light)](https://skills.thijs.gg)
 
-## You can  reach me via social media
+# You can  reach me via social media
 <p>
 <a href="https://www.linkedin.com/in/aniketkr06/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
 <a href="https://twitter.com/Aniket_Kumar10"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
