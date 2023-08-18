@@ -13,7 +13,11 @@
 name: Aniket Kumar
 located_in: Patna, Bihar, India
 current_job: Software Engineer (Self -Employee)
-experience : Engineer (Salesforce) From Mindtree Ltd
+experience :
+[
+      "PGT(CS) Teacher In KVS Bailey Road",
+      "Engineer (Salesforce) From Mindtree Ltd"
+]
 education:
   [
     "Bachelor's in Computer Science & Engineering",
