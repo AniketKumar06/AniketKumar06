@@ -15,7 +15,7 @@ located_in: Patna, Bihar, India
 current_job: Software Engineer (Self -Employee)
 experience :
 [
-      "PGT(CS) Teacher In KVS Bailey Road",
+      "PGT(CS) Teacher In Kendriya Vidyalaya Sangathan Bailey Road",
       "Engineer (Salesforce) From Mindtree Ltd"
 ]
 education:
