@@ -20,7 +20,9 @@ experience :
 ]
 education:
   [
-    "Bachelor's in Computer Science & Engineering",
+    "Bachelor's in Computer Science & Engineering" from Aryabhatta Knowledge University Patna,
+    "High School"  from K.B.Sahay Patna,
+    "Secondary School"  from Blue Bells Academy Patna
   ]
 fields_of_interests:
   [
