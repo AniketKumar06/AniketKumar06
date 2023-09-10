@@ -40,7 +40,7 @@ technical_background:
     "Intern - Python Developer",
   ]
 
-hobbies: ["Photography", "Travelling", "Comedy","Reading Book"]
+hobbies: [ "Photography", "Travelling", "Comedy", "Reading Book" ]
 ```
 
 <h1> 👨🏻‍💻 &nbsp;Short Summmary About me!!</h1>
