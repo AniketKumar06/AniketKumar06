@@ -15,6 +15,7 @@ located_in: Patna, Bihar, India
 current_job: Software Engineer (Self -Employee)
 experience :
 [
+      "Computer Instructor @ PM SHRI KENDRIYA VIDYALAYA NO.02,BAILEY ROAD PATNA,BIHAR",
       "Computer Instructor At Kendriya Vidyalaya Sangathan Bailey Road in Patna Bihar",
       "PGT(CS) Teacher Contractual  At  Kendriya Vidyalaya Sangathan Bailey Road in Patna Bihar",
       "Engineer (Salesforce) From Mindtree Ltd"
